@@ -1,0 +1,10 @@
+keras
+matplotlib
+pandas
+plotly
+scipy
+seaborn
+sklearn
+statsmodels
+tensorflow
+xgboost
